@@ -79,7 +79,7 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maazahmed0101&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=maazahmed0101&show_icons=true&theme=tokyonight"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maazahmed0101&theme=tokyonight"/>
 
@@ -87,7 +87,7 @@
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazahmed0101&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=maazahmed0101&layout=compact&theme=tokyonight"/>
 
 </p>
 
