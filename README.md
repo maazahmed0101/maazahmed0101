@@ -94,5 +94,7 @@
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+
+⭐ If you like my work, don't forget to star my repositories!
+
 </h3>
