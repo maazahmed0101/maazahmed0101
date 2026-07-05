@@ -59,9 +59,7 @@ Frontend Developer • MERN Stack Learner • Open to Internship Opportunities
 # ⚒️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,firebase,git,github,vscode,react,nodejs,express,mongodb"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,firebase,react,nodejs,express,mongodb,git,github,vscode,npm" />
 </p>
 
 ---
